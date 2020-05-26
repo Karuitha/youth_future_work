@@ -1,0 +1,37 @@
+Region,year,urban_pop
+World,1950,29.60
+World,1970,36.60
+World,1990,43.00
+World,2018,55.30
+World,2030,60.40
+World,2050,68.40
+Africa,1950,14.30
+Africa,1970,22.60
+Africa,1990,31.50
+Africa,2018,42.50
+Africa,2030,48.40
+Africa,2050,58.90
+Asia,1950,17.50
+Asia,1970,23.70
+Asia,1990,32.30
+Asia,2018,49.90
+Asia,2030,56.70
+Asia,2050,66.20
+Europe,1950,51.70
+Europe,1970,63.10
+Europe,1990,69.90
+Europe,2018,74.50
+Europe,2030,77.50
+Europe,2050,83.70
+LAC,1950,41.30
+LAC,1970,57.30
+LAC,1990,70.70
+LAC,2018,80.70
+LAC,2030,83.60
+LAC,2050,87.80
+North America,1950,63.90
+North America,1970,73.80
+North America,1990,75.40
+North America,2018,82.20
+North America,2030,84.70
+North America,2050,89.00
